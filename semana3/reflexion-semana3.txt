@@ -1,0 +1,1 @@
+Git es importante porque permite registrar y controlar los cambios realizados en un proyecto de software. Esto ayuda a organizar mejor el trabajo, recuperar versiones anteriores y corregir errores sin perder información. También facilita el trabajo en equipo y mantiene respaldo del proyecto en plataformas como GitHub.
