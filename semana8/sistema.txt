@@ -1,0 +1,5 @@
+El comando whoami muestra el usuario que está utilizando el sistema actualmente.
+
+En Linux, el comando uname -a muestra información detallada del sistema operativo. Como esta actividad fue realizada en Windows, se utilizó el comando systeminfo, que proporciona información sobre el sistema operativo, el hardware y la configuración básica del equipo.
+
+Conocer esta información es útil para administrar servidores porque permite identificar el entorno de trabajo, verificar compatibilidad de software, diagnosticar problemas y realizar configuraciones adecuadas.
